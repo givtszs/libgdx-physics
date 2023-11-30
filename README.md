@@ -4,4 +4,4 @@
 
 ## Screenshots
 
-https://github.com/givtszs/libgdx-physics/assets/126338272/72e4cc0c-42f8-4a8b-b7f9-a247db2d6ea7
+https://github.com/givtszs/libgdx-physics/assets/126338272/25cba803-2741-4a85-8f59-8c4f84a1c4fa
